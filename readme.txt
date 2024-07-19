@@ -1,0 +1,2 @@
+En esta ocasión, presentaré un proyecto que consiste en una calculadora científica desarrollada con HTML, CSS y JavaScript.
+Este proyecto se implementará en la nube utilizando los servicios de Google Cloud.
